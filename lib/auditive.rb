@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "auditive/version"
+require_relative 'auditive/version'
 
 module Auditive
   class Error < StandardError; end
